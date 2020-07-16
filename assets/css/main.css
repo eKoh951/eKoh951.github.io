@@ -1833,7 +1833,7 @@ input, select, textarea {
 		transition: border-color 0.2s ease;
 		background-color: transparent;
 		border: solid 1px !important;
-		border-color: rgba(255, 255, 255, 0.15) !important;
+		border-color: rgba(255, 255, 255, 0.15);
 		border-radius: 3em;
 		color: #ffffff !important;
 		cursor: pointer;
@@ -2915,11 +2915,11 @@ input, select, textarea {
 		}
 
 		.split.style1 > :nth-child(2n - 1) {
-			width: calc(66.66666% - 2.5em);
+			width: calc(40% - 2.5em);
 		}
 
 		.split.style1 > :nth-child(2n) {
-			width: calc(33.33333% - 2.5em);
+			width: calc(60% - 2.5em);
 		}
 
 		@media screen and (max-width: 1680px) {
