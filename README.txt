@@ -1,4 +1,4 @@
-My sample dev page.
+My sample dev site.
 
 This page was build with the help of the following:
 	Hyperspace by HTML5 UP
